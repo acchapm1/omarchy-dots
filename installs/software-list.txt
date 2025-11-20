@@ -1,0 +1,8 @@
+git
+curl
+nvim
+bat
+fzf
+zoxide
+zellij
+kanata
